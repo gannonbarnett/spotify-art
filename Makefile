@@ -1,2 +1,2 @@
 .PHONY setup:
-	./env
+	bash ./env
